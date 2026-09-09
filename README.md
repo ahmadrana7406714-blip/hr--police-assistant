@@ -17,7 +17,7 @@ The application allows users to upload an HR Policy PDF and ask questions about 
 
 ## 🔄 RAG Workflow
 
-```text
+
 HR Policy PDF
       ↓
 PyMuPDF

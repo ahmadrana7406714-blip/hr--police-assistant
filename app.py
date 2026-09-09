@@ -450,4 +450,4 @@ st.caption(
     "FAISS • Sentence Transformers • "
     "PyMuPDF • Groq"
 )
-```
+

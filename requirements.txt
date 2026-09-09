@@ -1,7 +1,6 @@
-streamlit
-faiss-cpu
-sentence-transformers
-PyMuPDF
-groq
-numpy
-```
+streamlit==1.49.1
+faiss-cpu==1.14.3
+sentence-transformers==5.1.0
+PyMuPDF==1.26.4
+groq==0.31.0
+numpy==2.2.6
